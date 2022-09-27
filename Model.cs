@@ -286,4 +286,10 @@ namespace BackaBarnet
 
     }
 
+    public class Right
+    {
+        public int UserID { get; set; }
+        public int PersonID { get; set; }
+    }
+
 }
